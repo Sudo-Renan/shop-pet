@@ -6,7 +6,7 @@ The main idea was to create a platform where you could offer your services relat
 We analyzed and saw that this idea was completely 'un-makeable' and would just leave us to a loop of frustration and could offer a small or even none return
 so, with this vision we adjust not to a completely new thing, but to a thing original enough.
 By that moment this repo is here only because some pages were so well-made that it is worth to give another glance to (give a look to the adoption page),
-besides still some emotionals reasons to.
+besides still some emotionals reasons.
 
 
 The original repo was made by rafahk2o that was one of our collaborators but is not working in the project anymore
