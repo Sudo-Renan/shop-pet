@@ -1,4 +1,4 @@
-# Shop-Pet-
+# Shop-Pet
 Pet Shop - Trabalho curso T.I Senac
 
 By this moment this project will be completely reformulate and become something more simple and more concise considering the objectives of my team 
